@@ -1,0 +1,4 @@
+com/ifpb/dac/app/App.class
+com/ifpb/dac/controle/ClienteDAO.class
+com/ifpb/dac/entidades/Cliente.class
+com/ifpb/dac/controle/Conexao.class
